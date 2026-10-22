@@ -4,3 +4,5 @@ branch
 rebase test line
 dev test change
 another dev change
+merge line 2
+merge lone 4
