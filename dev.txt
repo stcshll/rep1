@@ -10,3 +10,5 @@ new main line
 merge line 1
 
 merge line 3
+
+remove line
