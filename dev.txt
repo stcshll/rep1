@@ -7,3 +7,4 @@ line for main
 
 new main line
 
+merge line 1
