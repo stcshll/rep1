@@ -1,3 +1,2 @@
 Hello Git
 Line for status test
-Another line
