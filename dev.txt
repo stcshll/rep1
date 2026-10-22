@@ -8,3 +8,5 @@ line for main
 new main line
 
 merge line 1
+
+merge line 3
