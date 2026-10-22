@@ -16,3 +16,5 @@ remove line
 new local changes
 
 local unfinished
+
+stash 1
