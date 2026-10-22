@@ -1,3 +1,4 @@
 Hello Git
 Line for status test
 branch
+rebase test line
