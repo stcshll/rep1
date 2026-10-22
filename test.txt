@@ -3,3 +3,4 @@ Line for status test
 branch
 rebase test line
 dev test change
+another dev change
